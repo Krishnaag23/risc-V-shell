@@ -1,1 +1,3 @@
-#Implementing a RISCV CPU core using TL-verilog. This repository is my code following the edx course :- Building a RISC-V CPU Core (LFD111x).
+# RISCV CPU CORE using TL-Verilog
+- This repository is my code for the edx course :- course-v1:LinuxFoundationX+LFD111x+1T2024
+
